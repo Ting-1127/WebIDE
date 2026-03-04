@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/tmp/AppIDE/WebIDE/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/tmp/AppIDE/WebIDE/app/.cxx/Debug/7705e1w6/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/opt/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/tmp/AppIDE/WebIDE/app/.cxx/Debug/7705e1w6/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "myapplication::@6890427a1f51a3e7e1df": {
+      "artifactName": "myapplication",
+      "abi": "armeabi-v7a",
+      "output": "/tmp/AppIDE/WebIDE/app/build/intermediates/cxx/Debug/7705e1w6/obj/armeabi-v7a/libmyapplication.so",
+      "runtimeFiles": []
+    }
+  }
+}
