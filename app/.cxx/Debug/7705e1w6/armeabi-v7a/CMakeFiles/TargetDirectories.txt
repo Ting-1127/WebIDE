@@ -1,3 +1,0 @@
-/tmp/AppIDE/WebIDE/app/.cxx/Debug/7705e1w6/armeabi-v7a/CMakeFiles/myapplication.dir
-/tmp/AppIDE/WebIDE/app/.cxx/Debug/7705e1w6/armeabi-v7a/CMakeFiles/edit_cache.dir
-/tmp/AppIDE/WebIDE/app/.cxx/Debug/7705e1w6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(find /tmp/AppIDE/WebIDE/app/src/main/res/mipmap-* -type f | head -10)"
-    ]
-  }
-}

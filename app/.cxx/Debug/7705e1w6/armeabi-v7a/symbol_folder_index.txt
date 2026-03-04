@@ -1,1 +1,0 @@
-/tmp/AppIDE/WebIDE/app/build/intermediates/cxx/Debug/7705e1w6/obj/armeabi-v7a
